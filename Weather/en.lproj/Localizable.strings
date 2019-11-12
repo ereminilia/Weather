@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Vitaliy Podolskiy on 09.11.2019.
+  Copyright © 2019 Vitaliy Podolskiy. All rights reserved.
+*/
+
+"button.title" = "Сделать запрос";
